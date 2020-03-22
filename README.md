@@ -22,6 +22,8 @@ Download:
 
 https://github.com/29039/launch-exe-from-elsewhere/releases
 
+Tips:
+- You can open a Folder in Explorer by specifying a space and then a period (" .") at the end of the Target  
 
 Credits:
 
